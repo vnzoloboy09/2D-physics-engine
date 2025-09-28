@@ -1,0 +1,3 @@
+[submodule "Eflat/vendor/spdlog"]
+	path = Eflat/vendor/spdlog
+	url = https://github.com/gabime/spdlog
